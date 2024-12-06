@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nave [NOT REAL NAME]
 - 👀 I’m interested in Website/Game Creation
-- 🌱 I program in HTML5, CSS, JAVASCRIPT, PYTHON, LUA,
+- 🌱 I program in HTML5, CSS, JAVASCRIPT, PYTHON, LUA, C#
 
 <!---
 2348hi/2348hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
