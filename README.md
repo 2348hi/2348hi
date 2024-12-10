@@ -8,3 +8,5 @@
 
 - [Python](https://www.python.org/)
 - [HTML,CSS,JS](https://nodejs.org/)
+- [Lua](https://www.lua.org/)
+- [C Sharp](https://dotnet.microsoft.com/en-us/languages/csharp)
