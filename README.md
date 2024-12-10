@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Nave [NOT REAL NAME]
-- 👀 I’m interested in Website/Game Creation
-- 🌱 I program in HTML5, CSS, JAVASCRIPT, PYTHON, LUA, C#
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I%E2%80%99m+Nave+%5BNOT+REAL+NAME%5D;Owner+Of+ProxyNetwork;I+Make+Websites)](https://git.io/typing-svg)
 
-<!---
-2348hi/2348hi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# Nave
+
+### **Languages:**
+
+- [Python](https://www.python.org/)
+- [HTML,CSS,JS](https://nodejs.org/)
