@@ -10,3 +10,7 @@
 - [HTML,CSS,JS](https://nodejs.org/)
 - [Lua](https://www.lua.org/)
 - [C Sharp](https://dotnet.microsoft.com/en-us/languages/csharp)
+
+---
+
+![](https://komarev.com/ghpvc/?username=2348hi)
