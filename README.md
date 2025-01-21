@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I%E2%80%99m+Nave+%5BNOT+REAL+NAME%5D;Owner+Of+ProxyNetwork;I+Make+Websites)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+Im+Nave+%5BNOT+REAL+NAME%5D;Owner+Of+a+Ton+of+Stuff;I+Make+Websites)](https://git.io/typing-svg)
 
 ---
 
